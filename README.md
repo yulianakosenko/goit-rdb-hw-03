@@ -148,6 +148,4 @@ This assignment validates understanding of:
 
 Yuliya Kostenko
 MSc Computer Science (Software Engineering)
-
-Ти ж все-таки MSc Computer Science 😉
 ```
