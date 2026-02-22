@@ -111,12 +111,12 @@ GROUP BY supplier_id;
 goit-rdb-hw-03/
 │
 ├── queries.sql
-├── p1_1.png
-├── p1_2.png
-├── p2.png
-├── p3.png
-├── p4.png
-├── p5.png
+├── p3_1.1.png
+├── p3_1.2.png
+├── p3_2.png
+├── p3_3.png
+├── p3_4.png
+├── p3_5.png
 └── README.md
 ```
 
